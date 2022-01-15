@@ -1,5 +1,4 @@
 # Task-Manager-API
- <h1>Task Manager API</h1>
 <h3>A web API which provide following functionalities</h3>
 <ul>
     <li>User registration</li>
