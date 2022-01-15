@@ -2,11 +2,12 @@
 <h3>A web API which provide following functionalities</h3>
 <ul>
     <li>User registration</li>
-    <li>User Authentication User Login/Logout <br>
+    <li>User Authentication<br>
         <ul>
             <li>Using JWT user autherization is implemented</li>
             <li>User can upload its Profile Photo</li>
-            <li>user would be able to Login from different devices at same time</li>
+            <li>Email is sent to user on New registration and Account Deletion using Sendgrid Email API</li>
+            <li>User is able to Login from different devices concurrently</li>
         </ul>
     </li>
     <li>User is able to perform <br>
